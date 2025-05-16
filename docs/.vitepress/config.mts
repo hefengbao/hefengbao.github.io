@@ -44,8 +44,9 @@ export default defineConfig({
     },
     nav: [
       { text: '读写', link: 'https://hefengbao.github.io/rw', target: '_blank' },
-      { text: '游玩', link: 'https://hefengbao.github.io/travel', target: '_blank' },
+      { text: '知识库', link: 'https://hefengbao.github.io/knowledge', target: '_blank' },
       { text: '码农', link: 'https://hefengbao.github.io/hw', target: '_blank' },
+      { text: '游玩', link: 'https://hefengbao.github.io/travel', target: '_blank' },
     ],
 
     sidebar: [
