@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-Hans',
-  title: "贺丰宝",
-  description: "路过人间",
+  title: "He",
+  description: "贺丰宝的主页",
   lastUpdated: true,
   head: [
     [
