@@ -34,7 +34,7 @@ export default defineConfig({
       label: '页面导航'
     },
     footer: {
-      message: '这世界我来过',
+      message: '谨小慎微的活着',
       copyright: 'Copyright © 2025 ♥贺丰宝♥'
     },
     docFooter: {
