@@ -8,18 +8,9 @@ export default defineConfig({
   base: '/',
   lastUpdated: true,
   head: [
-    [
-      'meta',
-      { name: 'baidu-site-verification', content: 'code-y0HFipBUbj' }
-    ],
-    [
-      'meta',
-      { name: 'msvalidate.01', content: 'E357CFC93603D3C5E68E137CE32303B1' }
-    ],
-    [
-      'meta',
-      { name: '360-site-verification', content: '89718167fcee3af890dfffd0e179866d' }
-    ],
+    ['meta',{ name: 'baidu-site-verification', content: 'code-y0HFipBUbj' }],
+    ['meta',{ name: 'msvalidate.01', content: 'E357CFC93603D3C5E68E137CE32303B1' }],
+    ['meta',{ name: '360-site-verification', content: '89718167fcee3af890dfffd0e179866d' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
