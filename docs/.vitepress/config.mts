@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: "贺丰宝",
   description: "路过人间",
-  base: "/",
+  base: "/hefengbao.github.io/",
   lastUpdated: true,
   head: [
     [
