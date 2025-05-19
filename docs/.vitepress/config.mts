@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: "He",
   description: "贺丰宝的主页",
-  base: '/',
+  base: './',
   lastUpdated: true,
   head: [
     [
