@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-Hans',
-  title: "数字记忆",
-  description: "贺丰宝的主页",
+  title: "风暴号",
+  description: "贺丰宝的旗舰",
   base: '/',
   lastUpdated: true,
   assetsDir: 'static',
@@ -27,7 +27,7 @@ export default defineConfig({
       label: '页面导航'
     },
     footer: {
-      message: '谨小慎微的活着',
+      message: '弃我去者弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。',
       copyright: `Copyright © 2018-${new Date().getFullYear()} ♥贺丰宝♥`
     },
     docFooter: {

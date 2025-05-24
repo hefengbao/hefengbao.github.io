@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "贺丰宝"
   text: "路过人间"
-  tagline: "弃我去者弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。"
+  tagline: "一场虚无"
   image:
     src: ./NowInLife.jpg
     alt: NowInLife
