@@ -4,14 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-Hans',
   title: "风暴号",
-  description: "贺丰宝的旗舰",
+  description: "贺丰宝路过人间",
   base: '/',
   lastUpdated: true,
   assetsDir: 'static',
   head: [
-    ['meta',{ name: 'baidu-site-verification', content: 'code-y0HFipBUbj' }],
-    ['meta',{ name: 'msvalidate.01', content: 'E357CFC93603D3C5E68E137CE32303B1' }],
-    ['meta',{ name: '360-site-verification', content: '89718167fcee3af890dfffd0e179866d' }],
+    ['meta', { name: 'baidu-site-verification', content: 'code-y0HFipBUbj' }],
+    ['meta', { name: 'msvalidate.01', content: 'E357CFC93603D3C5E68E137CE32303B1' }],
+    ['meta', { name: '360-site-verification', content: '89718167fcee3af890dfffd0e179866d' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -23,11 +23,11 @@ export default defineConfig({
       }
     },
     outline: {
-      level: [2,3],
+      level: [2, 3],
       label: '页面导航'
     },
     footer: {
-      message: '弃我去者弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。',
+      message: '哎，终究只是一场空。',
       copyright: `Copyright © 2018-${new Date().getFullYear()} ♥贺丰宝♥`
     },
     docFooter: {
@@ -42,7 +42,7 @@ export default defineConfig({
     ],
 
     sidebar: [
-      
+
     ],
   }
 })
