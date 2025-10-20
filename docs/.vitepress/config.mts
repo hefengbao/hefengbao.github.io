@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-Hans',
   title: "风暴号",
-  description: "贺丰宝路过人间",
+  description: "这世界，我来过。",
   base: '/',
   lastUpdated: true,
   assetsDir: 'static',

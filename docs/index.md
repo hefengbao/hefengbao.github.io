@@ -7,7 +7,7 @@ hero:
   text: "路过人间"
   tagline: "想着做点什么！想要做点什么？"
   image:
-    src: ./NowInLife.jpg
+    src: ./wechat.jpg
     alt: NowInLife
   actions:
 
